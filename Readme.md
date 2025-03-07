@@ -3,7 +3,8 @@
 
 Este proyecto es una aplicación sencilla que permite a los usuarios ingresar nombres de amigos en una lista y luego seleccionar aleatoriamente uno de ellos como el "amigo secreto".
 
-[🖼️ Vista previa!](./assets/amigo-secreto.png)
+[🖼️ Vista previa!]([./assets/amigo-secreto.png](https://github.com/KendrykSuarez/Challenge-Amigo-secreto-Kendryk/blob/main/assets/amigo-secreto.png?raw=true)
+
 
 
 
